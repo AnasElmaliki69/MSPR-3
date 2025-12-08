@@ -1,5 +1,4 @@
 # 04 - Sécurité, Sauvegardes et Supervision
-Responsable : Kerim
 
 ---
 
