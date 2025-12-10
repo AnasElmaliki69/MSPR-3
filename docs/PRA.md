@@ -1,4 +1,4 @@
-Here is the exact same PRA text, **fully professional**, with **no emojis** and **no arrows**.
+
 
 ---
 
