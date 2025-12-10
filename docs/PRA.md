@@ -213,5 +213,3 @@ La stratégie PRA proposée assure :
   * RTO inférieur ou égal à 1 heure
   * RPO inférieur ou égal à 15 minutes
 
-Elle est adaptée aux contraintes de NTL, notamment une équipe IT réduite, des fenêtres de maintenance limitées et une forte dépendance vis-à-vis du WMS.
-
