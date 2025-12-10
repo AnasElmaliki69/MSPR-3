@@ -46,7 +46,7 @@ La politique de sécurité vise à :
 
 ---
 
-## 1.4 Exemple GRANT (PostgreSQL)
+## 1.4 Exemple GRANT (PostgreSQL) (a chaanger 'mySQL')
 
 ```sql
 CREATE ROLE wms_app LOGIN PASSWORD 'xxxx';
