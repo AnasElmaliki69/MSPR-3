@@ -32,7 +32,7 @@ La stratégie de continuité repose sur trois niveaux.
 
 * Serveur MySQL PRIMARY hébergé au datacenter de Lille
 * Serveur MySQL REPLICA hébergé au datacenter de Lens
-* Réplication MySQL asynchrone ou semi-synchrone
+* Réplication MySQL asynchrone
 * Surveillance du retard de réplication (replication lag)
 * Commutation manuelle ou semi-automatisée en cas de défaillance du serveur primaire
 
@@ -132,7 +132,7 @@ Procédure :
 * Soit dans une machine virtuelle Azure
 
 Étape 2 – Télécharger les sauvegardes Azure
-Exemple avec azcopy :
+Avec azcopy :
 
 ```
 azcopy cp "https://<container>/full_backup.sql.gz" /tmp/
