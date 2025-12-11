@@ -20,20 +20,21 @@ RPO cible : **15 minutes**
   - MLD
 
 - **Anas** : Architecture & SGBD  
-  - Benchmark et choix du SGBD (MySQL / PostgreSQL / MariaDB…)
-  - Conception de l’architecture HA / PRA
+  - Benchmark comparatif (MySQL / PostgreSQL / MariaDB → choix final : MySQL)
+  - Architecture HA MySQL (Primary Lille → Replica Lens)
+  - Conception du PRA (NAS + Azure Blob Storage)
   - Documentation d’architecture globale
 
 - **Kerim** : Sécurité, sauvegardes, supervision  
-  - Politiques de sécurité (rôles, comptes, moindre privilège, GRANT)
-  - Stratégies de sauvegarde (conformes RPO/RTO)
-  - Indicateurs de supervision et procédures de remédiation
+  - Politiques de sécurité SQL (rôles, comptes, GRANT – moindre privilège)
+  - Stratégies de sauvegarde (binlogs + full backups – conformes RPO/RTO)
+  - Indicateurs de supervision (KPI) et procédures de remédiation
 
 ---
 
 ## Livrables principaux
 
 - Document d’architecture technique (MCD, MLD, SGBD, HA/PRA, sécurité, sauvegardes, supervision)
-- Plan de reprise d’activité de la base de données
+- Plan de reprise d’activité MySQL (PRA)
 - Guide de supervision (indicateurs, seuils, remédiation)
 - Support de soutenance (présentation)
