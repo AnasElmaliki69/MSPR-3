@@ -41,5 +41,3 @@ Ces schémas illustrent visuellement les mécanismes essentiels qui garantissent
 - une stratégie de sauvegarde robuste (binlogs + full backups + redondance NAS/Azure)
     
 - une supervision proactive permettant de détecter les anomalies avant qu’elles n’affectent l’activité
-
-Ils complètent les sections 04.2 et 04.3 et servent de support à la soutenance.
