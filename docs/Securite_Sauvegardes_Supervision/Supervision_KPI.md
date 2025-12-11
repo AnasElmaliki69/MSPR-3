@@ -30,7 +30,8 @@ Cette section définit les cinq indicateurs critiques (KPI), leurs seuils d’al
 
 ## **3.1 KPI 1 – Replication Lag MySQL**
 
-**Description :**  
+**Description :** 
+
 Mesure le décalage entre le primary et le replica via `Seconds_Behind_Master`.
 
 **Seuils :**
