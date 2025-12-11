@@ -1,7 +1,6 @@
 # **04.4 – Schémas**
 
 Cette section regroupe les schémas utilisés pour illustrer les mécanismes de sauvegarde et de supervision de la base WMS.  
-Ils accompagnent les sections 04.2 et 04.3 du dossier d’architecture.
 
 ---
 
