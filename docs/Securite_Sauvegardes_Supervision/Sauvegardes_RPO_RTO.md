@@ -1,5 +1,5 @@
 
-# ** Stratégie de Sauvegardes (RPO 15 min / RTO 1 h)**
+# **Stratégie de Sauvegardes (RPO 15 min / RTO 1 h)**
 
 ## **1. Introduction**
 
