@@ -1,5 +1,5 @@
 
-# **04.1 – Politique de Sécurité SQL**
+# **Politique de Sécurité SQL**
 
 ## **1. Introduction**
 
