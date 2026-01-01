@@ -1,4 +1,4 @@
-# **04.3 – Supervision et Indicateurs Critiques (KPI)**
+# **Supervision et Indicateurs Critiques (KPI)**
 
 ## **1. Introduction**
 
