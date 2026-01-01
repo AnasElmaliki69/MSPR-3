@@ -1,4 +1,4 @@
-# **04.4 – Schémas**
+# **Schémas**
 
 Cette section regroupe les schémas utilisés pour illustrer les mécanismes de sauvegarde et de supervision de la base WMS.  
 
